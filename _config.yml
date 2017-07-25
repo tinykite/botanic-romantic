@@ -1,0 +1,26 @@
+title: Botanic Romantic
+description: Botanic Romantic is an interdisciplinary art project created by Dakota Sexton which celebrates the wonder of seemingly mundane plants. 
+baseurl: ""
+url: ""
+
+collections:
+  plants:
+    output: true
+    permalink: /plants/:path/
+  recipes:
+    output: true
+    permalink: /recipes/:path/
+
+markdown: kramdown
+gems:
+  - jekyll-feed
+  
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - README.md
+

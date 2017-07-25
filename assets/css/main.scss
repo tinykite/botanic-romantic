@@ -1,0 +1,320 @@
+---
+---
+
+@charset "utf-8";
+
+/* Import partial sass files */
+
+@import 'reset';
+@import 'modularscale';
+
+@function tint($color, $percentage) {
+  @return mix(white, $color, $percentage);
+}
+
+@function shade($color, $percentage) {
+  @return mix(black, $color, $percentage);
+}
+
+/* Variables */
+
+$modularscale: (
+  base: 1em 1.333em,
+  ratio: 1.5
+);
+
+$max-width: 500px;
+
+/* Base */
+
+hr {
+  width: 50%;
+  text-decoration: underline 1px solid #ccc;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+color: #494746;
+}
+
+.container {
+  padding-top: 1.5rem;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main {
+  width: 60%;
+  margin: 1.5rem auto;
+  margin: 0 auto;
+}
+
+.masthead {
+position: relative;
+padding: 0;
+margin: 0;
+}
+
+.intro {
+  position: relative;
+  clear: both;
+  margin: 0 auto;
+	text-align: center;
+	height: 45vh;
+  border-top: 1em solid #fff;
+  border-bottom: 1em solid #fff;
+}
+
+h1 {
+	font-size: ms(5);
+	margin-bottom: 1rem;
+	margin-top: 1em;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+h2 {
+  font-size: ms(3);
+    letter-spacing: 2px;
+}
+
+.guide h2 {
+	text-align: center;
+	margin-top: 1em;
+}
+
+h3 {
+  margin-top: 1em;
+}
+
+h3 {
+  font-size: ms(2);
+  letter-spacing: 1px;
+  color: #344567;
+}
+
+p {
+  font-size: ms(1);
+  line-height: 1.6;
+  color: #494746;
+  margin-top: 1em;
+}
+
+.about-intro {
+  font-size: ms(3);
+  line-height: 1.3;
+}
+
+.guide p:first-child {
+  font-size: ms(1);
+  text-align: center;
+  margin-top: .75rem;
+  color: #8C91A5;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.main ul, .main ol {
+  font-size: ms(1);
+  line-height: 1.6;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.icon {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: 0 auto;
+  padding-top: 3rem;
+}
+
+
+img{
+  max-width: 100%;
+}
+
+.full-width {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+    margin-left: -20%;
+  margin-right: -20%;
+  padding:1.75em 0;
+}
+
+
+
+.intro img {
+  height: 35vh;
+  width: auto;
+  border-right: 1em solid #fff;
+   border-left: 1em solid #fff;
+  padding-right: 3em;
+   padding-left: 3em;
+   padding-top: 5vh;
+   padding-bottom: 5vh;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+.logo {
+  height: 5rem;
+}
+
+.site-nav {
+    text-align: right;
+    float: right;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    }
+.site-nav ul {
+    width: 100%;
+     font-size: 18px;
+  line-height: 2.5;
+  color: #494746;
+    }
+.site-nav ul li {
+    display: inline-block;
+    margin-right: 1em;
+    }
+.site-nav ul li:last-child {
+    margin-right: 0;
+}
+.site-nav a {
+    color: #344567;
+}
+.site-nav a:hover {
+    color: #999;
+    text-decoration: underline 1em solid #999;
+}
+
+.beige {
+  background-color: #EBD9D1;
+}
+
+.red {
+  background-color: #EAA9A7;
+  .icon {
+  fill: #DB5758;
+  }
+}
+
+.pink {
+  background-color: #E0877A;
+}
+
+.light-beige {
+  background-color: #F7DEBF;
+}
+
+.light-blue {
+  background-color: #8FA599;
+}
+
+.green {
+  background-color: #00CF5E;
+  .icon {
+  fill: #00CF5E;
+  }
+}
+
+.purple {
+  background-color: #273C82;
+}
+
+.icon {
+  fill: #00CF5E;
+}
+
+.author {
+  margin-top: .75rem;
+  font-style: italic;
+  color: black;
+}
+
+.recipe-header {
+  background: 
+    url(/assets/images/nettles-unedited/5590837445_8b32a86f4d_o.jpg) no-repeat;
+  -webkit-filter: url(#duotone);
+  filter:  url(#duotone);
+  background-size: cover;
+  height: 45vh;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  position: relative;
+}
+
+.defs-only {
+  position: absolute;
+  height: 0; 
+  width: 0;
+  overflow: none;
+  left: -100%;
+}
+
+.recipe-info h2 {
+  position: absolute;
+  left: 25%;
+  bottom: 40%;
+  color: black;
+  background-color: white;
+  padding: 0 1em;
+  text-align: left;
+}
+
+.recipe-info p {
+  position: absolute;
+  left: 30%;
+  bottom: 25%;
+  color: black;
+  background-color: white;
+  padding: 0 1em;
+  text-align: left;
+}
+
+.recipe ul {
+  color: #494746;
+}
+
+.recipe ol {
+  counter-reset:li; /* Initiate a counter */
+  margin-left:0; /* Remove the default left margin */
+  padding-left:0; /* Remove the default left padding */
+  color: #494746;
+}
+.recipe ol > li {
+  position:relative; /* Create a positioning context */
+  margin:0 0 6px 2em; /* Give each list item a left margin to make room for the numbers */
+  padding:4px 8px; /* Add some spacing around the content */
+  list-style:none; /* Disable the normal item numbering */
+}
+.recipe ol > li:before {
+  content:counter(li); /* Use the counter as content */
+  counter-increment:li; /* Increment the counter by 1 */
+  /* Position and style the number */
+  position:absolute;
+  top:-10px;
+  left: -1em;
+  -moz-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  box-sizing:border-box;
+  width:4em;
+  /* Some space between the number and the content in browsers that support
+     generated content but not positioning it (Camino 2 is one example) */
+  margin-right:8px;
+  font-size: ms(3);
+  padding:4px;
+}
+.recipe li ol,
+.recipe li ul {margin-top:6px;}
+.recipe ol ol li:last-child {margin-bottom:0;}
+
+
+

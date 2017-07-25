@@ -1,0 +1,9 @@
+header:
+- title: About
+  url: /about/
+- title: Plant Guides
+  url: /plants/
+- title: Recipes
+  url: /recipes/
+- title: FAQ
+  url: /faq/

@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<div class="main">
+{% assign plants = site.plants %}
+    {% for item in plants %}
+        <a href="{{ item.link }}" target="_blank" rel="noopener" class="gallery__caption__link">{{ item.title }}</a>
+    {% endfor %}
+    </div>
