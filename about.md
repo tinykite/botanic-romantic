@@ -17,6 +17,8 @@ But it's my hope that this project inspires others to get outside and wander abo
 
 _—Dakota Sexton_
 
+<hr>
+
 ### Contributors
 - Dakota Sexton – Writer, Creative Director, Web Developer
 - Siloh Radovsky – Writer, Herbal Researcher
