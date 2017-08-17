@@ -3,59 +3,81 @@ layout: plants
 title:  "Sweet Cicely"
 description: TK
 icon: /assets/icons/sweet-cicely.svg
+icon_small: /assets/icons/sweet-cicely-small.svg
+color: beige
+position: 4
 ---
-TL:DR; Not the showiest pony on any ranch. But humble doesn't mean homely.  
+This isn't the showiest pony on any ranch. But humble doesn’t mean homely. 
 
-Sweet Cicely often hides in plain sight amongst other, more decorative displays of foliage, in moist woods or alongside streams and lakes. It's relatively common throughout the midwest, yet no longer terribly well known. 
+I hadn’t heard of sweet cicely until visiting Paradox Farm, in nearby Ashby, Minnesota. A friend, who had studied sustainable agriculture with one of the owners, Sue Witka, invited me to drive over and see firsthand the many amazing, edible and wild plants that animals eat while grazing at the farm. 
 
-That's a shame, because there is something genuinely sweet about it. For a hint of it, crush the leaves in your hand and try to get a whiff of the fragrance that escapes. For both the Sweet Cicely which prominently grows in America (sometimes known as Aniseroot), as well as its British neighbor, the scent is earthy and licorice-like. 
+Sweet cicely was, admittedly, _not_ one of those plants. But Sue mentioned it enthusiastically a handful of times on our tour — enough that I wrote “Sweet Cicely!” by itself as a memo on my phone. 
 
-What causes the smell? Not important. I mean, science is cool guys. But what the smell conveys is a sort of je ne sais quoi quality that is incredi....  
+Several days later, I felt curious. I had almost zero anecdotal information. I hadn’t, somehow, managed to ask Sue to clarify what made the plant so special. But I knew, at the very minimum, that according to the DNR, it is a wholly appropriate native plant to grow on lakeshore property in Otter Tail County Minnesota (an area that comprises 10% lake) and somehow that felt like enough of a lead. 
 
- in the fragrance that escapes. a fragrance will escape: something earthy and licorice-like.  
+It was also my assumption that among a pool of contacts that includes herbalists, outdoor educators, researchers, and even one particularly very friendly DNR bureaucrat, there must be at least be one person with a deep familiarity with the plant. 
 
-What causes the smell? It’s not terribly important. I mean, it is (science is cool, guys) – but what is more relevant is what that smell means about sweet cicely’s potential for use in the world of cooking and medicine. 
+As it turns out, I was pretty wrong. No-one had actually heard of it — although by sheer coincidence, someone offered my friend and herbalist Siloh Radovsky the opportunity to harvest it in Olympia, thousands of miles away, just days after I asked about it. 
 
-In the world of food, there's a cool group of spices everyone knows. A group that includes basil, licorice, tarragon, fennel, and star anise. None of these spices really share any relation in terms of family or biology, not unlike the way in which other cool kids (your heathers, ashleys, plastics, etc) aren't typically related either – yet all share a sort of unmistable je ne sais quois.  
+ ![Photo of Sweet Cicely](http://media.botanicromantic.com/7301916478_1d1c5109a7_o.jpg)
+ {: .full-width}
+#### [Photo](https://flic.kr/p/c8fenG): [Dan Mullen](https://www.flickr.com/photos/8583446@N05/), [CC BY-NC-ND 2.0](CC BY-NC-ND 2.0)
+{: .credit}
 
-But cool kids do all share a sort of unmistakable je ne sais quois. And in this case, the je ne sais quois is how much they smell. A lot. But in a good way! 
+I almost gave up after hitting a dead end with research. I was full of doubt: maybe it just wasn’t worth it to try to study an edible plant not already included in every foraging cookbook I’d read. Maybe it tasted bad, and I was only retreading the failed footsteps of other amateur foragers.
 
-The outsized odor they each impart is thanks to organic compounds that include anethole, a substance 14 times sweeter than sugar. Anethole isn’t manipulated into an easily usable form in the same way sugar is, because… Apparently undesirable bad things happen (Citation needed). 
+But maybe it was worthwhile. Maybe it was totally awesome.  
 
-Its unique odor and sweetness is, however, one of the reasons licorice is so popular and versatile, with use everywhere from Absinthe, to the Danish candy salte fiske, to a soothing cup of Throat Coat and also – incredibly frequently – to worldwide use as a flavoring agent in cigarettes.
+I committed to finding the plant anyway, fueled by equal parts stubbornness and a little bit of unbridled optimism that it had to be growing wild somewhere in the city limits of Fergus Falls and that I absolutely, certainly was going to find it. 
 
-Despite its ubiquity however, the culinary form of licorice (not to be confused with American licorice) isn’t common to this side of the pond. Or, in fact, this side of the hemisphere. It is primarily cultivated, according to the NIH, in Greece, Turkey, and Asia, in a lengthy growing process that takes three years to produce a sizeable root. 
+![Photo Sweet Cecily](http://media.botanicromantic.com/35079789065_824431d932_o.jpg)
+{: .full-width}
+#### [Photo](https://flic.kr/p/VrT68p): [Josuha Mayer](https://www.flickr.com/photos/wackybadger/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+{: .credit}
 
-But you know what also tastes a lot like licorice? And includes that special, special substance known as anethole? Why, just a humble little sweet thing that grows wild in Minnesota, from moist woods and the rich perimeters of creeks and rivers and lakes to even the rather unremarkable edges of this humble author’s suburban yard. 
+On my first attempt, I tried to find it by biking the Central Lakes State Trail, a 55-mile path that runs through west-central Minnesota from Fergus to Osakis. I wasn’t sure it would be there — and I am admittedly not even an expert forager. Or even a particularly experienced one. (Honestly, I am anything but advanced.) 
 
-Sweet Cicely doesn’t enjoy the attention that licorice does in the world of herbal and complementary/alternative medicine. The anecdotal research available on its medical applications is sparse in comparison. However, the herbalist Matthew Wood notes of its usefulness in the treatment of type II diabetes in The Earthwise Herbal: A Complete Guide to New World Medicinal Plants (“It is specific for helping the cells pick up more blood sugar”).
+But either due to luck or simply the sheer prevalence of sweet cicely in Minnesota, I found it in less than a half hour. If you aren’t looking for it, it seems to blend almost imperceptibly into the nondescript vegetative growth of wooded areas. But it isn’t hard to spot if you do try. 
 
-And according to driftless region herbalist Adrian White, it s 
+It typically hangs out in semi or fully-shaded areas, particularly ones that are stream, river, or lake adjacent. And since discovering it on the Central Lakes Trail, I’ve also spotted it growing along the river walk behind the Fergus Falls City Hall; near random rest stops throughout west central Minnesota; along Jensen Lake in Eagan, Minnesota (my hometown); hiding out in the semi-moist woods behind my childhood home; and even on the not-so-wild margins of the house itself. 
 
-## Sweet Cicely Champagne Soda
-Recipe by S.F. Keough 
-{: .author}
+Sweet cicely is, without a doubt, prevalent throughout Minnesota, Wisconsin, and Iowa. It is no longer terribly well known, however, with little popularity in herbal and culinary circles. Which is all a shame, because there is something genuinely sweet about it. For a hint of it, all you need to do is crush the leaves in your hand and then try to get a whiff of the fragrance that escapes. It is licorice-like and pungent, with a sweet sort of floral spice to the smell. 
 
-Gather a bunch of Sweet Cicely flowers (8-10 heads should do)
-1.5 lbs of sugar
-1 gallon of cold filtered water
-1 lemon, juice plus skin cut into chunks after removing the pith 
-3T white wine vinegar
+In Scotland, sweet cicely is nothing less than a known, cherished quantity. There, the common European form of sweet cicely is one of the cherished botanicals infused in Botanist Islay Dry gin. It is also commonly spotted in hedgerows and praised for its versatility in wild food-focused cuisine. 
+ 
+And yet, our sweet cicely (which, to avoid confusion with _le European kind_ is sometimes referred to exclusively as aniseroot) isn’t among the cool kid group of herbs that every foodie or casual herbal enthusiasts freaks out about. Its unassuming appearance doesn’t help: it doesn’t exactly scream “I AM A SPECIAL.”
 
-Dissolve the sugar in about two cups of warm water, let it cool, then mix all ingredients together in a big container. Cover it and leave it somewhere dark and a bit cool for 4 days. If it gets too hot, the lemon might mold. If you see that happening, just skim it off. After four days, strain and pour the liquid into bottles. Glass bottles look nicer but plastic is safer just in case your soda gets too fizzy. In any case, unscrew the lids every couple days to let off some pressure. Keep them at room temperature for 4-10 days, checking their taste along the way. Once it’s to your liking, you can pop it in the fridge to slow down the fermentation process. This refreshing beverage is a delight on its own and has an anise-y flavor with a little extra sweetness. Add a lemon slice and some ice, or why not some gin too? 
+![Photo of Sweet Cecily](http://media.botanicromantic.com/8895560645_b2d5941379_o.jpg)
+{: .full-width}
+#### [Photo](https://flic.kr/p/ey55gg): [Wendell Smith](https://www.flickr.com/photos/wendellsmith/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+{: .credit}
 
-Note: Fermented drinks do contain a small percentage of alcohol and the longer you let them ferment, the higher the percentage.
+It’s also a member of the wild carrot family, with toxic cousins that include none other than poison hemlock. Even a small nibble of hemlock can cause poisoning and heart arrest. But the British foraging guides I found encouraged even beginning foragers to try to find and identify it. 
 
-## Sweet Cicely Ice Cream — for ice cream maker
-Recipe by Siloh Radovsky 
-{: .author}
+Why? Partly because the pungent scent of sweet cicely is inherently valuable to its identification (Hemlock is said to have a very “mousey” odor). And because the scent is an indicator of something inherently valuable to medicinal and culinary practice. 
 
-1-2 cups fresh, chopped Sweet Cicely leaves, stems, and seed-pods, and optional roots
-2 cups whole milk or non-dairy milk of your choice (ideally something fatty like coconut or hemp)
-1/2 - 1 cup honey, sugar, or maple syrup (use more or less sweetener to taste)
-1 tablespoon vanilla extract (optional)
-2 cups heavy cream or more whole milk
+![Photo of Poison Hemlock](http://media.botanicromantic.com/35489506906_9d2a9213ce_k.jpg)
+{: .full-width}
+#### Do _not_ harvest poison hemlock. [Photo](https://flic.kr/p/W55ZY7): [tgd1220](https://www.flickr.com/photos/maxwells_demon/), [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/) 
+{: .credit}
 
-In a medium saucepan, combine the fresh Sweet Cicely and 2 cups of whole milk. Bring the mixture to barely a simmer and then remove from heat. Allow to steep covered for 45 minutes. Strain the milk into a large jar or mixing bowl — it should be a lovely shade of green, much like green tea ice cream! (You can now discard the Sweet Cicely.) Stir in the sweetener of your choice into the infused milk until it’s dissolved, along with the vanilla extract. At this point, let it chill in the refrigerator for several hours. Once it’s nice and cool, stir in two more cups of cream or milk. Use this mixture according to the directions of your ice cream maker to make a gorgeous, anise-sweet ice cream. Serve alone or with angel-food cake.
+There is a cool kid group of herbs that everyone already knows about, that carry similarly pungent and almost spicy scents: a crew that includes star anise, basil, licorice, terragon, and fennel. These plants don’t have much in common in terms of biological familiarity, not unlike any of the other cool kids (your heathers, your plastics, etc) we all know. But they do share an outsized, fragrant odor that is imparted thanks to organic compounds which include anethole, a substance 14 times sweeter than sugar. 
 
-_Editor's Note:_ You don't need an ice cream maker to make ice cream! The Kitchn has a roundup of alternate ways to make it here. 
+Sweet cicely, the outsider none of us know, also shares comparable levels of anethole. And unlike licorice (the culinary and medicinal form of which is typically grown in Turkey, Greece, and throughout Asia), it doesn’t require three years to produce a viable root. 
+
+So maybe I’m projecting here, and I shouldn’t be championing sweet cicely like it’s the Sea Biscuit of the culinary and herbal world. But as driftless region herbalist Adrian White, of Deer Nation Herbs notes, it is a native plant that grows in our own backyard. 
+
+![Photo of Sweet Cecily](http://media.botanicromantic.com/5097347753_c09ba6a42f_o.jpg)
+{: .full-width}
+####  [Photo](https://flic.kr/p/8LreU6): [Superior National Forest](https://www.flickr.com/photos/superiornationalforest/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+{: .credit}
+
+It doesn’t require an XXXXXL carbon footprint to forage or cultivate. And not only does White believe that sweet cicely is a more sustainable alternative to licorice in the Midwest, her research even indicates that it has the adaptogenic healing capacity of even rarer, exotic finds, such as Reishi, Ashwagandha, Ginseng, and Jiao-Gu-Lan. 
+
+“Which is why I would urge any herbalist who relies on adaptogens to get acquainted with Sweetroot, whether it be just for themselves and their families or a clinical practice,” she says, adding, “If you wish to be an herbalist and fit seamlessly into an ecological or bioregional niche of herbalism, you’re not being practical leaning on a plant like Eleuthero [Ginseng] to cover those bases (although Eleuthero has its own wonderful virtues).”
+
+The herbalist Matthew Wood anecdotally notes of its usefulness in the treatment of type II diabetes in The Earthwise Herbal: A Complete Guide to New World Medicinal Plants (“It is specific for helping the cells pick up more blood sugar”).
+
+And I can only imagine the brilliant, weird possibilities sweet cicely might inspire mixologists and foraging-focused foodies to take on. Which is exactly why I encouraged my friend Siloh, and Put a Egg on It Tasty Zine author S.F. Keough to do just that—
+
+You can check out their recipes here. 

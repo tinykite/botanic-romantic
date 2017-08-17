@@ -3,45 +3,65 @@ layout: plants
 title:  "Wild Violet"
 description: TK
 icon: /assets/icons/wild-violet.svg
+icon_small: /assets/icons/wild-violet-small.svg
 color: beige
+position: 1
 ---
-If a plant grows where you want it to, you might say that it grows vigorously. But if it doesn’t? That thing is a weed. Its delicate, small flowers are a menace. 
+Some say it’s a perennial pain in the ass. Attack it early and often to protect the sanctity of your yard. 
 
-And the common wild violet, a perennial pain in the ass for some gardeners, is no exception.
+I grew up in a suburban neighborhood just south of Saint Paul, Minnesota where neatly mowed yards now tend to be accompanied by large families of only slightly-overgrown bushes. Wandering the neighborhood now, it’s easy to spot retirees caring for all the low-maintenance bushes and the occasional bed of flowers. They move slowly, methodically, and wield a changing array of serious-looking tools, from weed whackers and hedge trimmers to strange XXL pitchforks. 
 
-![First Violet Photo](/assets/images/violet-unedited/143189362_a9b4c28aab_o.jpg)
+Sometimes, usually late in the day around dusk, one of our neighbors will peer seriously at a single patch of grass. I don’t know at what — but I like to imagine that he (or sometimes she) is strategizing the next appropriate move in an ongoing campaign to maintain dominion over the yard. 
+
+My parents don’t have much in the way of intense lawn care strategies or gardening goals. Ferns have — rather happily — almost completely taken over what remains of our front yard flower beds. And a variety of other plants, including wild violet, have also taken up residence all over the lawn. I’m not sure my parents really care about it all. Which is perhaps for the best. 
+
+![Photo of violets with bokeh](http://d19obp3htqd30.cloudfront.net/3452728612_d583aaaf5e_o.jpg)
 {: .full-width}
+#### [Photo](https://flic.kr/p/6g78VE): Liz West / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+{: .credit}
 
-Like many tenacious plants, violets survive by sending out seeds and thick networks of underground rhizomes. 
+Because wild violet doesn’t care about any of your hopes or dreams. Like many common yard invaders, they are an uninvited guest with absolutely zero shits to give, and large colonies of it can — and will — spread like small-town gossip throughout your lawn. 
 
- But there's also something else, something wonderful, that prevents gardeners from gaining the upper hand. It’s known as a cleistogamous flower, a type of underground bud that doesn’t require sunlight or even the help of a pollinator to produce seeds. 
+The cool thing about violets, though, isn’t how fast they spread. Instead, it’s how curiously they do it: not only with seeds and underground networks of spindly rhizomes, but even super-secret, pale-white buds. Known as cleistogamous flowers, these secret beauties (named after the Latin term for a closed or “self” marriage) can hide underground because they don’t need pollinators or even the sun to produce viable seeds. 
 
-That’s because, as the Chestnut School of Herbal Medicine notes, unlike the more free-wheeling, free love ways of more typical flowers, “cleistogamous flowers are in a closed relationship with themselves."
+In other words, they can pollinate themselves just fine thanks, even in the dark. 
 
-Essentially, the underground flowers that violets grow are _so bad-ass_ that they don't need anyone else.
+Due to this attitude, violets are commonly designated as a weed on many lawn care or University-maintained gardening websites. But not everyone views their appearance as an assault on common decency. 
 
-<span class="firstcharacter">H</span>istorically, violets proliferate today after centuries of intense popularity. The Minneapolis botanist, native plant advocate, and educator Eloise Butler felt violets were second in beauty only to roses.
-
-She planted them frequently in her public gardens, and wrote in the Minneapolis Star Tribune in 1911 that even a man “supposedly guiltless of dropping into poetry” could fall in love with them. 
-
-![Second Violet Photo](/assets/images/violet-unedited/14157317963_1d2e851d11_o.jpg)
+![Photo of violets in lawn](http://d19obp3htqd30.cloudfront.net/14157317963_1d2e851d11_o.jpg)
 {: .full-width}
+#### [Photo](https://www.flickr.com/photos/rkramer62/14157317963): [Rachel Kramer](https://www.flickr.com/people/rkramer62/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+{: .credit}
 
-If he were ever to stumble upon them by accident, she wrote, he would suddenly feel so happy and enraptured that he would find himself crooning, “I would rather know where violets grow than a good many things!”
+The botanist Eloise Butler (an early advocate for natural conservation and the protection of native plants) often and rather intentionally planted many varieties of violets in her gardens. She believed no other flower, save a red rose, was as beautiful. And while she most famously opened the Eloise Butler Wildflower Garden in Minneapolis in 1907 (which today remains the oldest wildflower garden in America) — she also wrote a regular column for the Minneapolis Star Tribune. 
 
-Or in other words, even the least poetic among us are capable of admiring something others call a weed.
+In 1911, she wrote that even a man “supposedly guiltless of dropping into poetry” could fall deeply, madly in love with the common blue violet. And she wasn’t the only one to wax romantic about the flower. 
 
-<span class="firstcharacter">A</span>nd the sentiment is shared across the pond.  
+As early as 1620 lozenges known as violet tables were flavored with the fragrant, european cousin of the common blue violet (known as sweet violet). Violets have also been cooked or incorporated into a variety of sweets and candies, including flower pastries, sweet meats, and the infamous British parma violets; they have been included as thickening agents in soups; and during the Edwardian era, it was popular to infuse them into medicinal chocolates or liquor as a cure for nausea. 
 
-Particularly during the Victorian era, a sort of violet mania emerged in England. The sweet-smelling cousin of wild violet, known as sweet violet, became a household staple as a perfume component and sold on the streets in bouquets known as nosegays. 
 
-During an era of high enthusiasm for guides detailing the so-called Language of Flowers, violets also took on a deep symbolism, sometimes symbolizing virtues such as chastity and faithfulness, but also taking on graver meanings of untimely death and mourning.
+None of this seems to compare, however, to the feverish wonder that once existed for violet as a perfume or fragrant bouquet. Violet posies and necklaces have even had cameos in classic works of art and literature. 
 
-In Hamlet, Ophelia mourns, "I would give you some violets, but they withered all when my father died" Stricken by grief, Ophelia later drowns in a river while picking flowers, a scene the pre-Raphaelite painter Sir John Everett Millais depicted in Ophelia (1851-2).
+In _Hamlet_, Ophelia laments that she would have picked a posy of the purple flowers, but they “withered with the death of [her] father.” She drowns in a stream surrounded by flowers, a scene depicted in the Sir John Everett Millais painting, _Ophelia_. 
 
-![Third Violet Photo](/assets/images/ophelia-tate.jpg)
+![Photo of Ophelia painting](http://d19obp3htqd30.cloudfront.net/Ophelia.jpg)
 {: .full-width}
+#### _Ophelia_ by Sir John Everett Millais, 1851. [Photo](https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg): Tate, London, 2011
+{: .credit}
 
-According to the Tate Museum, violets are among the symbolic plants Millais included in the painting – they appear in a woven flower chain around her neck.
+The Tate museum notes online that each flower depicted was carefully chosen for symbolism, and that violets, “which Ophelia wears in a chain around her neck, stand for faithfulness, chastity, or death of the young, any of which meanings could apply here.”
 
-According to Hyperallergic, violets are also depicted in Ford Madox Brown's painting, "Convalescent, Portrait of the Artist's Wife" which also, errily, mourns the all-too-soon death of a woman.
+
+Violets are also depicted in Ford Madox Brown's painting, "Convalescent, Portrait of the Artist's Wife" which, again, mourns the all-too-soon death of a woman.
+
+TK notes in TK SOURCE, the exact meanings of a flower like violet (in popular “Language of Flowers” guides and, as it appears, in art) inherently depended on the traditional gender roles — and classic virtues — expected of women of the era. In America, says TK, guides detailing the “language” had close ties to the moralism movement. (Quote needed!!) 
+
+![Photo of violet perfume and violet music](http://d19obp3htqd30.cloudfront.net/vintage-violet.jpg)
+{: .full-width}
+#### From left: New York Public Library / Metropolitan Museum of Art
+{: .credit}
+
+This isn’t the only “secret” language of the violet, however. That rather well-known secret is that violets were once strongly connected with the poet Sappho: and the tiny, purple flower (not unlike the pansy) was once exchanged between women as a way of defying expectations and communicating forbidden, romantic desires. 
+
+For a seemingly simple, common weed, violets inspire a lot of love. 
+

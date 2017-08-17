@@ -2,10 +2,9 @@
 layout: recipes
 title:  "Sumac Marinated Pork Tenderloin with Japanese Turnips"
 author: "S.F. Keough"
-description: Get fancy with sumac
+description: A dish that proves extraordinary flavors can come from seemingly ordinary places.
+category: "sumac"
 ---
-_Serves 2 or something // Recipe by S.F. Keough_
-
 ### Ingredients
 - 1T Olive oil
 - 1T Soy sauce

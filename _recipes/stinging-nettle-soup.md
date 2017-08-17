@@ -2,10 +2,9 @@
 layout: recipes
 title:  "Stinging Nettle Soup"
 author: "S.F. Keough"
-description: Something something variation on a Swedish classic
+description: In Sweden, this is a classic staple around springtime.  
+category: "nettle"
 ---
-_Serves 2 or something // Recipe by S.F. Keough_
-
 ### Ingredients
 - 6 cups of stinging nettles
 - 2T butter

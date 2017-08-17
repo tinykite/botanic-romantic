@@ -10,6 +10,9 @@ collections:
   recipes:
     output: true
     permalink: /recipes/:path/
+  category_test:
+    title: categories
+    output: true
 
 markdown: kramdown
 gems:
@@ -24,3 +27,11 @@ exclude:
   - CNAME
   - README.md
 
+defaults:
+- scope:
+    path: ''
+    type: category_test
+  values:
+    permalink: "/categories/:title/"
+    layout: category
+    twitter: 

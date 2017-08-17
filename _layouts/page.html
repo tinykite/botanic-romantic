@@ -1,9 +1,16 @@
 ---
 layout: default
 ---
+<div class="page-intro">
+<div class="page-info">
+<h2>{{ page.title }}</h2>
+<p class="author">{{ page.description }}</p>
+</div>
+</div>
+
 <div class="main">
-{% assign plants = site.plants %}
-    {% for item in plants %}
-        <a href="{{ item.link }}" target="_blank" rel="noopener" class="gallery__caption__link">{{ item.title }}</a>
-    {% endfor %}
-    </div>
+<article class="guide">
+{{ content }}
+</article>
+</div>
+

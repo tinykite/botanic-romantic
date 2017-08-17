@@ -1,0 +1,17 @@
+---
+layout: default
+title: Plant Guides
+---
+<div class="wrapper">
+<div class="plant-index-header">
+<h1 class="text-shadow underline">Eat the Weeds</h1></div>
+<div class="plant-index-grid">
+
+ {% assign sorted_index = site.plants | sort: 'position' %}
+  {% for item in sorted_index %}
+    <article class="panel">
+     <a href="{{ item.url }}"><img src="{{ item.icon_small }}"></a>
+    </article>
+    {% endfor %}
+</div>
+</div>
