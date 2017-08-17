@@ -26,12 +26,4 @@ exclude:
   - Gemfile.lock
   - CNAME
   - README.md
-
-defaults:
-- scope:
-    path: ''
-    type: category_test
-  values:
-    permalink: "/categories/:title/"
-    layout: category
-    twitter: 
+  - .DS_Store
