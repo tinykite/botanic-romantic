@@ -64,19 +64,41 @@ margin: 0;
 }
 
 h1 {
-	font-size: ms(4);
-	margin-bottom: 1rem;
-	margin-top: 1em;
-	text-align: center;
-	letter-spacing: 1px;
+  font-size: ms(4);
+  margin-bottom: 1rem;
+  margin-top: 1em;
+  text-align: center;
+  letter-spacing: 1px;
   line-height: 1.2;
-  color: brown;
+  color: #FFF;
 }
 
-.about h3 {
-  font-size: ms(3);
-    letter-spacing: 2px;
-    text-transform: uppercase;
+.something h1 {
+	font-size: ms(8);
+	margin-top: 8rem;
+	text-align: center;
+  display: block;
+	letter-spacing: 1px;
+  line-height: 1.2;
+  color: hsla(0, 0%, 100%, 0.9);
+}
+
+.something p {
+  text-align: center;
+  display: block;
+  font-size: ms(5);
+    color: hsla(0, 0%, 100%, 0.9);
+    font-style: italic;
+}
+
+.something {
+  margin: 2em 0 0 0;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+  background: url(http://d19obp3htqd30.cloudfront.net/jan-phoenix-269396.jpg) no-repeat;
+  background-size: cover;
+  height: 50vh;
 }
 
 .guide h2 {
@@ -85,13 +107,10 @@ h1 {
 }
 
 h3 {
-  margin-top: 1em;
-}
-
-h3 {
   font-size: ms(2);
   letter-spacing: 1px;
   color: #344567;
+  margin-top: 2em;
 }
 
 p {
@@ -157,10 +176,6 @@ img{
    padding-bottom: 5vh;
 }
 
-h2 {
-  text-transform: uppercase;
-}
-
 .logo {
   height: 3rem;
   width: auto;
@@ -220,17 +235,8 @@ h2 {
   position: relative;
 }
 
-.page-intro {
-  margin: 2em 0 0 0;
-  padding: 0;
-  position: relative;
-  overflow: hidden;
-  background: url(http://d19obp3htqd30.cloudfront.net/jan-phoenix-269396.jpg) no-repeat;
-  background-size: cover;
-  height: 50vh;
-}
 
-.recipe-info, .page-info h2 {
+.recipe-info {
   position: absolute;
   left: 30%;
   bottom: 40%;
