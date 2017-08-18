@@ -2,10 +2,12 @@
 layout: recipes
 title:  "Sweet Cicely Ice Cream"
 author: "Siloh Radovsky"
-recipe_size: Makes one pint of ice cream.
 description: Because ice cream that's green is just a lot more fun. 
 category: "sweet-cicely"
 ---
+### Yield 
+Makes one pint of ice cream.
+
 ### Ingredients
 - 1-2 cups fresh, chopped sweet cicely leaves, stems, and seed-pods, and optional roots
 - 2 cups whole milk or non-dairy milk of your choice (ideally something fatty like coconut or hemp)
