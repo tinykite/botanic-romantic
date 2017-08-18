@@ -10,7 +10,7 @@ title: Plant Guides
  {% assign sorted_index = site.plants | sort: 'position' %}
   {% for item in sorted_index %}
     <article class="panel">
-     <a href="{{ item.url }}"><img src="/assets/icons/{{ item.icon_small }}"></a>
+     <a href="{{ item.url }}"><img src="{{ item.icon_small }}"></a>
     </article>
     {% endfor %}
 </div>
