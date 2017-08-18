@@ -10,13 +10,13 @@ position: 3
 
 Not everything has a pretty name. This one doesn't. But there's poetry in the thorny nature of this plant, I promise. 
 
-I don't know who christened the moniker "Stinging Nettle." 
+When I was a horticulture intern at the Eloise Butler Wildflower garden just west of downtown Minneapolis, my boss often pointed out plants to me with really cool names. Names like _bastard toadflax_ and _skunk cabbage_. 
 
-It’s a little basic and unimaginative, like deciding to name your new fancy superfood “nutritious green thing” or going rogue and labeling every single brand of fancy cereal in Whole Foods “cardboard morning snacks.”
+I don’t really know who christened the moniker _stinging nettle_. It feels a little disappointing in comparison. It's like someone had an opportunity to come up with something astoundingly weird but then settled for weirdly practical.
 
-But then there's Stinging Nettle’s scientific name, <em>Urtica Dioica</em>, which redeems it all. It's nothing short of heavy metal. The name derives from the latin verb Urere, to burn. Which means this is a plant that gets to run around all day screaming “HELLO I BURN!”, a phrase that obviously couldn't get any more hardcore if it tried. 
+It’s like deciding to name your new fancy superfood “hardcore green thing” or going rogue and relabeling all the fancy cereals at your local grocery store “exciting morning bits” 
 
-The intrigue thickens from there. Nettles commonly thrive alongside creeks and rivers, in wet meadows, in mucky wetlands, and moist soil contaminated or enriched by nitrates and uric acid waste products (including those leached by septic tanks, and animals when they pee). 
+But the scientific name for this plant redeems it all. _Urtica diocia_ is a name that is pure heavy metal with an unnecessary side of explosive angst. Its name derives from the latin verb _urere_, meaning to burn. Which means, in my deeply unscholarly opinion, that it probably spends all day and night screaming nothing but “HELLO I BURN.”
 
 ![First Stinging Nettle Photo](http://d19obp3htqd30.cloudfront.net/3545973418_9e4d933430_o.jpg)
 {: .full-width}

@@ -65,7 +65,7 @@ So where can you find an elder? You can spot it throughout much of North America
 #### [Photo](https://flic.kr/p/g98BCf): [Andy Rogers](https://www.flickr.com/photos/cobaltfish/), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) 
 {: .credit}
 
-Both varieties of elder may be used in culinary and herbal applications and are fairly interchangeable, although herbalists Guido Masé and Jovial King note in DIY Bitters: Reviving the Forgotten Flavor that they prefer canadensis for its flowers, and nigra for its berries. 
+Both varieties of elder may be used in culinary and herbal applications and are fairly interchangeable, although herbalists Guido Masé and Jovial King note in DIY Bitters: Reviving the Forgotten Flavor that they prefer canadensis for its flowers, and nigra for its berries.
 
 There is also a third common variety, red-berried elder, that grows wild in Minnesota but is not edible. Conveniently, this form of the tree blooms much earlier in the year — as early as April. According to Minnesota Wildflowers, its flower clusters are distinctly egg-shaped as well, versus the flat-topped, wide umbels of its edible cousins. And as its name suggests, it also sports bright-red berries, unlike the ripe purple-black of edible elders. 
 
@@ -78,7 +78,7 @@ So what, you ask, is elder particularly good for? Western herbalists often turn 
 
 According to the University of Maryland Medical Center, some research suggests that elder may have antiviral, anti-influenza, anti-inflammatory, and anti-cancer properties. The berries also contain Vitamin C and a high concentration of antioxidant flavonoids, which “outranks blueberries, cranberries, goji berries, and blackberries in terms of total flavanol content.”
 
-Few studies have been done on humans on the effectiveness of elder’s flavonoids — however, there is other evidence of its effectiveness. Specifically, “some evidence suggests chemicals in elder flower and berries may help reduce swelling in mucous membranes, including the sinuses, and help relieve nasal congestion.” It may also help us sweat more — and studies show it may substantially shorten the duration of the flu (in one study, by as much as three days.)
+Few studies have been done on humans on elder’s flavonoids — however, there is other evidence of the plant's beneficial nature. Specifically, “some evidence suggests chemicals in elder flower and berries may help reduce swelling in mucous membranes, including the sinuses, and help relieve nasal congestion.” It may also help us sweat more — and studies show it may substantially shorten the duration of the flu (in one study, by as much as three days.)
 
 Among its many other curious uses, it is also a traditional remedy for settling wild ravings and for wakefulness. This is, as herbalist Siloh Radovsky puts it, “Perhaps a reflection of its relationship to journeying and the imagination.”
 

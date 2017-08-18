@@ -1,7 +1,6 @@
 ---
 layout: plants
 title:  "Wild Violet"
-description: TK
 icon: /assets/icons/wild-violet.svg
 icon_small: /assets/icons/wild-violet-small.svg
 color: beige
