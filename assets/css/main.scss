@@ -113,6 +113,11 @@ h3 {
   margin-top: 2em;
 }
 
+.recipe-listing h3 {
+  margin-top: 1.5rem;
+  line-height: 1.5;
+}
+
 p {
   font-size: ms(1);
   line-height: 1.5;
@@ -444,3 +449,7 @@ hr {
   font-weight: normal;
 }
 
+.center {
+  margin: 0 auto;
+  text-align: center;
+}
