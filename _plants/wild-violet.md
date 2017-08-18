@@ -2,7 +2,7 @@
 layout: plants
 title:  "Wild Violet"
 icon: /assets/icons/wild-violet.svg
-icon_small: /assets/icons/wild-violet-small.svg
+icon_small: /assets/icons/wild-violet-box.svg
 color: beige
 position: 1
 ---

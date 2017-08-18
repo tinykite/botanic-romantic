@@ -1,9 +1,8 @@
 ---
 layout: plants
 title:  "Elder"
-description: TK
 icon: /assets/icons/elder.svg
-icon_small: /assets/icons/elder-small.svg
+icon_small: /assets/icons/elder-box.svg
 color: beige
 position: 2
 ---

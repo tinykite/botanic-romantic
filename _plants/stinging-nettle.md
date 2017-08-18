@@ -3,7 +3,7 @@ layout: plants
 title:  "Stinging Nettle"
 description: TK
 icon: /assets/icons/stinging-nettle.svg
-icon_small: /assets/icons/stinging-nettle-small.svg
+icon_small: /assets/icons/stinging-nettle-box.svg
 color: "beige"
 position: 3
 ---

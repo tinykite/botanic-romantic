@@ -1,9 +1,8 @@
 ---
 layout: plants
 title:  "Staghorn Sumac"
-description: TK
 icon: /assets/icons/staghorn-sumac.svg
-icon_small: /assets/icons/staghorn-sumac-small.svg
+icon_small: /assets/icons/staghorn-sumac-box.svg
 color: beige
 position: 5
 ---

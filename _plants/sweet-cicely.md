@@ -1,9 +1,8 @@
 ---
 layout: plants
 title:  "Sweet Cicely"
-description: TK
 icon: /assets/icons/sweet-cicely.svg
-icon_small: /assets/icons/sweet-cicely-small.svg
+icon_small: /assets/icons/sweet-cicely-box.svg
 color: beige
 position: 4
 ---
