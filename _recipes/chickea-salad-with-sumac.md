@@ -2,11 +2,13 @@
 layout: recipes
 title:  "Chickpea Salad with Sumac"
 author: "Siloh Radovsky"
-recipe_size: Serves 4 as a side dish
 description: An easy salad that can be enjoyed warm or cool, with cultivated greens or wild invasives.  
 category: "sumac"
 
 ---
+### Yield
+Serves 4 as a side dish
+
 This salad is inspired by the flavors of za’atar, a spice blend popular in Israel and Palestine. Sumac is a key ingredient, lending a rich, tangy flavor that melds with the more familiar thyme. You can increase the amount of sumac to your liking! 
 
 ### Dressing Ingredients

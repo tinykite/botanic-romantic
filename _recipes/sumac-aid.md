@@ -2,10 +2,12 @@
 layout: recipes
 title:  "Sumac-Aid"
 author: "Siloh Radovsky"
-recipe_size: Serves 4
 description: It's like lemonade, but better.
 category: "sumac"
 ---
+### Yield
+Serves 4
+
 ### Ingredients
 - 3-4 berry clusters
 - 1 quart of cold water

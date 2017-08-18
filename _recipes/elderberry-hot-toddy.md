@@ -2,10 +2,12 @@
 layout: recipes
 title:  "Elderberry Hot Toddy"
 author: "Siloh Radovsky"
-recipe_size: Makes approximately 4 cups of syrup. Can be easily doubled. 
 description: Melts away the chill of winter.
 category: "elder"
 ---
+### Yield
+Makes approximately 4 cups of syrup. Can be easily doubled. 
+
 ### Ingredients
 - 4 heaping cups of freshly-harvested elderberries
 - 1 - 2 cups water

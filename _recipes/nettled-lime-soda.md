@@ -2,10 +2,12 @@
 layout: recipes
 title:  "Nettled Lime Soda"
 author: "Siloh Radovsky"
-recipe_size: Serves 2
 description: Some say one novel beverage a day keeps the boredom away. 
 category: "nettle"
 ---
+### Yield
+Serves 2
+
 ### Ingredients
 - 2 hearty handfuls of nettle leaves
 - 8 ounces of hot water

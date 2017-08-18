@@ -2,10 +2,12 @@
 layout: recipes
 title:  "Nettle Pesto"
 author: "Siloh Radovsky"
-recipe_size: Makes approximately one cup. 
 description: A seasonal take on a versatile sauce. 
 category: "nettle"
 ---
+### Yield
+Makes approximately one cup. 
+
 ### Ingredients
 - 4 cups loosely packed nettle tops and leaves
 - 1/2 cup nuts (walnuts, pecans, or toasted sunflower seeds)

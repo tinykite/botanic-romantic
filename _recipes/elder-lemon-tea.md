@@ -2,9 +2,11 @@
 layout: recipes
 title:  "Elder-Lemon Tea"
 author: "Siloh Radovsky"
-recipe_size: Serves 2
 description: Particularly excellent when you're feeling under the weather.
 ---
+### Yield
+Serves 2
+
 This tea replicates a light and sweet elderflower cordial I tried once and whose flavor eluded me until adding the tart, fresh acidity of lemon. The licorice lends some necessary sweetness and mellows out the “skunkiness” of elderflower, emphasizing its pleasant floral taste. I love this as hot tea in the winter, especially because elder is immune-stimulating. 
 
 ### Ingredients

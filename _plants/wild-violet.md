@@ -9,24 +9,28 @@ position: 1
 ---
 Some say it’s a perennial pain in the ass. Attack it early and often to protect the sanctity of your yard. 
 
-I grew up in a suburban neighborhood just south of Saint Paul, Minnesota where neatly mowed yards now tend to be accompanied by large families of only slightly-overgrown bushes. Wandering the neighborhood now, it’s easy to spot retirees caring for all the low-maintenance bushes and the occasional bed of flowers. They move slowly, methodically, and wield a changing array of serious-looking tools, from weed whackers and hedge trimmers to strange XXL pitchforks. 
+I grew up in a suburb just south of Saint Paul, Minnesota, where I recently returned to stay, despite many misgivings about the blandness of a suburb known primarily for its proximity to no less than three major highways; and the convenience that provides to nearly a dozen large employers, including Thomson Reuters, which hosts an estimated 6,700 employees in its mammoth Pilot Knob compound alone.
 
-Sometimes, usually late in the day around dusk, one of our neighbors will peer seriously at a single patch of grass. I don’t know at what — but I like to imagine that he (or sometimes she) is strategizing the next appropriate move in an ongoing campaign to maintain dominion over the yard. 
+But that said, it’s not all bland. You can also amble down a paved bike/pedestrian path to Lebanon Hills Regional Park, a place which boasts nearly 2,600 acres of canoeing, hiking, horseback riding, mountain biking, and even cross-country skiing. If you’re any kind of sports-obsessed human, you might also feel enticed by the news that the Vikings are moving to a new, elaborately landscape training here in just a couple of years —
 
-My parents don’t have much in the way of intense lawn care strategies or gardening goals. Ferns have — rather happily — almost completely taken over what remains of our front yard flower beds. And a variety of other plants, including wild violet, have also taken up residence all over the lawn. I’m not sure my parents really care about it all. Which is perhaps for the best. 
+And while I wouldn’t exactly call the development I grew up in charming, there is something strangely routine and almost even comforting about watching the mostly retired residents of it putter around their yards. They move slowly, methodically, as they wield a changing array of serious-looking tools, from weed whackers to strange XXL pitchforks, that I assume are all used in some service to continue an ageless campaign against untidy growth or uninvited botanical guests to the yard. 
+
+My parents don’t really have much in the way of gardening goals. Ferns have — rather happily — almost completely taken over what remains of our front yard flower beds. A variety of opportunistic plants, including wild violet, have also taken up residence all over our lawn. 
+
+My parents don’t mind. Which is perhaps for the best. 
 
 ![Photo of violets with bokeh](http://d19obp3htqd30.cloudfront.net/3452728612_d583aaaf5e_o.jpg)
 {: .full-width}
 #### [Photo](https://flic.kr/p/6g78VE): Liz West / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 {: .credit}
 
-Because wild violet doesn’t care about any of your hopes or dreams. Like many common yard invaders, they are an uninvited guest with absolutely zero shits to give, and large colonies of it can — and will — spread like small-town gossip throughout your lawn. 
+Because wild violet doesn’t care about any of your hopes or dreams. They have zero shits to give. Large colonies of it can — and will — spread like small-town gossip throughout your yard. 
 
-The cool thing about violets, though, isn’t how fast they spread. Instead, it’s how curiously they do it: not only with seeds and underground networks of spindly rhizomes, but even super-secret, pale-white buds. Known as cleistogamous flowers, these secret beauties (named after the Latin term for a closed or “self” marriage) can hide underground because they don’t need pollinators or even the sun to produce viable seeds. 
+The curious thing about violets isn’t how fast they spread, however. Instead, it’s how they do it: not only with seeds and underground networks of spindly rhizomes, but even super-secret, pale-white buds. Known as _cleistogamous flowers_, these secret beauties (named after the latin term for a closed or “self” marriage) can hide underground because they don’t need pollinators or even the sun to produce viable seeds. 
 
-In other words, they can pollinate themselves just fine thanks, even in the dark. 
+They can pollinate themselves just fine thanks, even in the dark. 
 
-Due to this attitude, violets are commonly designated as a weed on many lawn care or University-maintained gardening websites. But not everyone views their appearance as an assault on common decency. 
+If you follow the advice of many gardening websites, a campaign of pesticide-fueled annihilation is your only hope of reducing a scourge such as this. But the leaves and flowers of violets are surprisingly edible; and not everyone views the appearance of a cluster of these tiny, purple beauties as an assault on common decency. 
 
 ![Photo of violets in lawn](http://d19obp3htqd30.cloudfront.net/14157317963_1d2e851d11_o.jpg)
 {: .full-width}
@@ -40,7 +44,7 @@ In 1911, she wrote that even a man “supposedly guiltless of dropping into poet
 As early as 1620 lozenges known as violet tables were flavored with the fragrant, european cousin of the common blue violet (known as sweet violet). Violets have also been cooked or incorporated into a variety of sweets and candies, including flower pastries, sweet meats, and the infamous British parma violets; they have been included as thickening agents in soups; and during the Edwardian era, it was popular to infuse them into medicinal chocolates or liquor as a cure for nausea. 
 
 
-None of this seems to compare, however, to the feverish wonder that once existed for violet as a perfume or fragrant bouquet. Violet posies and necklaces have even had cameos in classic works of art and literature. 
+None of this seems to compare, however, to the feverish wonder that once existed for violet as a perfume, a bouquet, or even a simple posey. Napoleon famously wore violets as a symbol of his victorious return to power, after his exile on Sicily — and violet posies even have cameos in some of the cherished, famous works of art and literature. 
 
 In _Hamlet_, Ophelia laments that she would have picked a posy of the purple flowers, but they “withered with the death of [her] father.” She drowns in a stream surrounded by flowers, a scene depicted in the Sir John Everett Millais painting, _Ophelia_. 
 
@@ -51,17 +55,28 @@ In _Hamlet_, Ophelia laments that she would have picked a posy of the purple flo
 
 The Tate museum notes online that each flower depicted was carefully chosen for symbolism, and that violets, “which Ophelia wears in a chain around her neck, stand for faithfulness, chastity, or death of the young, any of which meanings could apply here.”
 
-
 Violets are also depicted in Ford Madox Brown's painting, "Convalescent, Portrait of the Artist's Wife" which, again, mourns the all-too-soon death of a woman.
 
-TK notes in TK SOURCE, the exact meanings of a flower like violet (in popular “Language of Flowers” guides and, as it appears, in art) inherently depended on the traditional gender roles — and classic virtues — expected of women of the era. In America, says TK, guides detailing the “language” had close ties to the moralism movement. (Quote needed!!) 
+In addition to fine art, the symbolic language of flowers also had a heyday in 19th century literary flower dictionaries for women. The content of each of these guides (such as Flora’s Dictionary, published in 1829, by Elizabeth Gamble Wirt) appears to have varied, based on scientific information, folklore, and sometimes purely arbitrary nonsense. But it also invariably was based on the traditional roles and virtues expected of women in America and abroad. 
+
+As scholar Corinne Kopcik Rhyner notes in her dissertation, “Flowers of Rhetoric,” on the prevalence of the language in 19th century American literature, “In America the language of flowers was a popular phenomenon [...] traditionally associated with True Womanhood ideals for women to be pious, pure, domestic, and submissive to their husbands.”
+
+I just barfed. But not all is lost — 
 
 ![Photo of violet perfume and violet music](http://d19obp3htqd30.cloudfront.net/vintage-violet.jpg)
 {: .full-width}
 #### From left: New York Public Library / Metropolitan Museum of Art
 {: .credit}
 
-This isn’t the only “secret” language of the violet, however. That rather well-known secret is that violets were once strongly connected with the poet Sappho: and the tiny, purple flower (not unlike the pansy) was once exchanged between women as a way of defying expectations and communicating forbidden, romantic desires. 
+Pure, unadulterated submissiveness isn’t the only “secret” of a flower like violet. 
 
-For a seemingly simple, common weed, violets inspire a lot of love. 
+As Rhyner notes, the language of flowers gained popularity in the Western world only after its introduction by German Orientalist Josepher Hammer-Purcell. Purcell had, Rhymer notes, studied a precursor of the language of flowers during a stay in Turkey. And he understood its connection to the tradition of sélams: “ a form of covert communication in which the exchange of symbolic objects, including but not limited to flowers, allowed cloistered harem girls to communicate with love interests outside of their walls.”
+
+These coded messages weren’t, as Hammer-Purcell might have first assumed, a form of communication between a man and a woman, however — women used them as a friendly game amongst other women, to entertain themselves, and as a way to communicate lesbian desire. 
+
+I think that connotation, of giving violets (or other flowers) as a symbol of queer love, is more fascinating than any other bullshit meaning. It isn’t even the oldest: in Greek times, the violet was reportedly the flower chiefly associated with the homoerotic overtures of the lyrist Sappho. 
+
+Whether or not, as some scholars now question, Sappho was really the beacon of queer power in her personal life that some believe, this all amounts to a mountain of love for a seemingly simple weed.  
+
+
 
