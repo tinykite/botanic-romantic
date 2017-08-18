@@ -83,10 +83,10 @@ Once they are fully dry, gently place the leaves into a jar and store away from 
 _If you’ve picked roots_  
 Roots need to be thoroughly cleaned before use. A vegetable scrub-brush works wonders here. If you’re going to dry your roots for teas, slice thinly after they’ve been cleaned. Slice fresh roots before use. 
 
-### SOURCES
+### Sources
 _Moore, Michael. Medicinal Plants of the Mountain West. Santa Fe: Museum of New Mexico Press, 2003. (pg 11-13)_
 
-### BIOGRAPHY
+### Biography
 _Siloh Radovsky_ is a writer who grew up in Minnesota and she will always love its plant-life like none other. She received her B.A. in interdisciplinary writing from the Evergreen State College, which was preceded by studies in herbalism at Minnesota Community & Technical College, the Serpentine Project in Wisconsin, at the Farmacy in Providence, and at the School of Traditional Western Herbalism in Portland, Oregon, where she learned from Matthew Wood in addition to other notable herbalists like Jim McDonald and Larken Bunce. Siloh resides in Olympia, WA, where she is working on a novella themed around contemporary relationships to bodily health, mental illness, and health fads. Examples of her work can be found [here](Silohradovsky.net).
 
 _*Editor's Note: While the term "foraging" is common and perhaps better known, herbalists more typically refer to the process of finding, using, and/or preserving wild plants as wildcrafting._
