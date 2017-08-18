@@ -4,6 +4,7 @@ title:  "Foraging for Beginners"
 author: "Siloh Radovsky"
 description: By Siloh Radovsky
 image: http://d19obp3htqd30.cloudfront.net/jan-phoenix-269396.jpg
+permalink: /foraging-for-beginners/
 
 ---
 _Never harvested a weed before? No problem. Awesome human and trained herbalist Siloh Radovsky will help you find your first bounty._

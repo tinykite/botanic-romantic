@@ -1,6 +1,7 @@
 ---
 layout: about
 title:  "About"
+permalink: /about/
 description: "Botanic Romantic is a foraging guide and interdisciplinary art project which celebrates the wonder of seemingly mundane or weedy yet edible plants."
 ---
 Started during an interdisciplinary art residency on the grounds of the former Kirkbride State Hospital in Fergus Falls, Minnesota in spring 2017, it aims to be experimental yet educational, both sassy and non-apologetically personal. 
