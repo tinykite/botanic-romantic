@@ -47,9 +47,12 @@ $max-width--lg: ($min-width--xl - 1);
 
 /* Base */
 
-a {
+a:link, a:visited, a:hover, a:active {
   text-decoration: none;
-  color: inherit;
+}
+
+a:hover, a:active {
+  color: #ccc;
 }
 
 body {
@@ -72,6 +75,16 @@ background-color: #fffc;
       margin: 3rem auto;
   }
 }
+
+.main a:link, .main a:visited, .recipe-listing a:link, .recipe-listing a:visited {
+  text-decoration: none;
+  color: #8C91A5;
+}
+
+.main a:hover, .main a:active, .recipe-listing a:hover, .recipe-listing a:active {
+  color: #ccc;
+}
+
 
 .recipe-listing {
   color: #9E9B9B;
@@ -238,15 +251,11 @@ img{
     text-decoration: underline 1em solid #999;
 }
 
+
+
+
 .beige {
   background-color: #EBD9D1;
-}
-
-.red {
-  color: #EAA9A7;
-  .icon {
-  fill: #DB5758;
-  }
 }
 
 .icon {
