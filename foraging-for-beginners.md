@@ -16,7 +16,7 @@ Before embarking on your first adventure, it’s important to make sure you know
 
 Extra caution is advised for plants that share family members with poisonous plants. Sweet cicely, for example, is a member of the wild carrot family (which includes some toxic cousins) and should always be identified with the aid of a photo reference. 
 
-In general, if you’re new to plant identification, try to get your hands on a reputable guidebook or region-specific online resource (we’ve created a list of reputable websites here) for in-depth instructions on how to “key” or identify your plant. You can also check out United Plant Savers, another great resource, for invaluable information on medicinal plants at risk of extinction. 
+In general, if you’re new to plant identification, try to get your hands on a reputable guidebook or region-specific online resource for in-depth instructions on how to “key” or identify your plant. You can also check out [United Plant Savers](https://www.unitedplantsavers.org), another great resource, for invaluable information on medicinal plants at risk of extinction. 
 
 (FYI: All the plants listed in Botanic Romantic are abundant and ecologically appropriate to harvest in the Midwest.)
 
