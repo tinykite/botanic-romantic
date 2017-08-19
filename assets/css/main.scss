@@ -27,7 +27,23 @@ $modularscale: (
   color: brown;
 }
 
-$max-width: 500px;
+$min-width--sm: 480px;
+$min-width--md: 720px;
+$min-width--lg: 960px;
+$min-width--xl: 1200px;
+$max-width--xs: ($min-width--sm - 1);
+$max-width--sm: ($min-width--md - 1);
+$max-width--md: ($min-width--lg - 1);
+$max-width--lg: ($min-width--xl - 1);
+
+/* Mixins */
+
+@mixin min-width($media) {
+ @media only screen and (min-width: $media) { @content; }
+}
+@mixin max-width($media) {
+ @media only screen and (max-width: $media) { @content; }
+}
 
 /* Base */
 
@@ -49,8 +65,12 @@ background-color: #fffc;
 }
 
 .main {
-  width: 55%;
-  margin: 3rem auto;
+  width: 95%;
+  margin: 1rem auto;
+    @include min-width($min-width--md) {
+      width: 55%;
+      margin: 3rem auto;
+  }
 }
 
 .recipe-listing {
@@ -148,12 +168,22 @@ img{
   max-width: 100%;
 }
 
+.full-width, .credit {
+@include min-width($min-width--md) {
+  margin: 0 -20% 4rem -20%;
+  }
+}
+
 .full-width {
+  margin-top: 2rem 0 0 0;
+  padding: 1rem 0;
+  @include min-width($min-width--md) {
   margin-top: 2rem;
   margin-bottom: 0;
-    margin-left: -20%;
+  margin-left: -20%;
   margin-right: -20%;
   padding:1.75em 0 .5em 0;
+  }
 }
 
 .intro {
@@ -172,8 +202,12 @@ img{
 }
 
 .logo {
+  width: 20em;
+  height: auto;
+  @include min-width($min-width--md) {
   height: 3rem;
   width: auto;
+  }
 }
 
 .site-nav {
@@ -417,7 +451,6 @@ hr {
   text-transform: uppercase;
   color: #8C91A5;
   padding: 0;
-  margin: 0 -20% 4rem -20%;
 }
 
 .wrapper-c h1 {
@@ -437,9 +470,4 @@ hr {
   font-style: roman;
   text-transform: none;
   font-weight: normal;
-}
-
-.center {
-  margin: 0 auto;
-  text-align: center;
 }
