@@ -73,32 +73,22 @@ h1 {
   color: #FFF;
 }
 
-.something h1 {
+.page-hero h1 {
 	font-size: ms(8);
-	margin-top: 8rem;
 	text-align: center;
-  display: block;
-	letter-spacing: 1px;
-  line-height: 1.2;
+  line-height: 1;
   color: hsla(0, 0%, 100%, 0.9);
 }
 
-.something p {
-  text-align: center;
-  display: block;
-  font-size: ms(5);
-    color: hsla(0, 0%, 100%, 0.9);
-    font-style: italic;
-}
-
-.something {
+.page-hero {
   margin: 2em 0 0 0;
   padding: 0;
-  position: relative;
-  overflow: hidden;
   background: url(http://d19obp3htqd30.cloudfront.net/jan-phoenix-269396.jpg) no-repeat;
   background-size: cover;
   height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .guide h2 {
