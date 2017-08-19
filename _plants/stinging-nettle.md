@@ -22,7 +22,7 @@ Nettles thrive alongside the moist margins of creeks and rivers, in mucky wetlan
 
 ![First Stinging Nettle Photo](http://d19obp3htqd30.cloudfront.net/3545973418_9e4d933430_o.jpg)
 {: .full-width}
-#### [Photo](https://www.flickr.com/photos/debbcollins/3545973418): [debs-eye](https://www.flickr.com/people/debbcollins/, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+#### [Photo](https://www.flickr.com/photos/debbcollins/3545973418): [debs-eye](https://www.flickr.com/people/debbcollins/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 {: .credit}
 
 Pacific northwest herbalist Siloh Radovsky says that nettles are the land plant most closely associated with the ocean.
