@@ -26,7 +26,7 @@ Nettles thrive alongside the moist margins of creeks and rivers, in mucky wetlan
 {: .credit}
 
 Pacific northwest herbalist Siloh Radovsky says that nettles are the land plant most closely associated with the ocean.
-High in nutritious minerals and Vitamin C, they are not unlike seaweed. And, if we view the body as a sort of vast, metaphorical ocean — they can also become key to improving the painful or uncomfortable stagnation of its fluids.  
+High in nutritious minerals and Vitamin C, they are not unlike seaweed. And, if we view the body as a sort of vast, metaphorical ocean, nettles can also become key to improving the painful or uncomfortable stagnation of its fluids.  
 
 Specifically, nettles have been used as remedy for conditions that include bloating and excessive water retention; as an aid to chronic inflammation of the bladder and the urination problems that accompany the early stages of benign prostatic hyperplasia (aka an uncomfortably enlarged prostate); as a blood purifier and kidney tonic; and even a remedy for encouraging milk production in new mothers. 
 
