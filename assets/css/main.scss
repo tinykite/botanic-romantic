@@ -215,11 +215,11 @@ img{
 }
 
 .logo {
-  width: 20em;
+  width: 300px;
   height: auto;
-  @include min-width($min-width--md) {
-  height: 3rem;
-  width: auto;
+  @include min-width($min-width--lg) {
+  width: 400px;
+  height: auto;
   }
 }
 
