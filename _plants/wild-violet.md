@@ -72,7 +72,7 @@ Rhyner notes that the language of flowers gained popularity in the Western world
 
 Women used them as a friendly game amongst other women, to entertain themselves, and as a way to communicate queer desire. 
 
-I think that connotation is more fascinating than any other bullshit meaning: of flowers — and violet in particular – as a diminuitive yet powerful symbol of (non-heteronormative) love.
+I think that connotation is more fascinating than any other bullshit meaning. Of flowers — and violet in particular – as a diminuitive yet powerful symbol of non-heteronormative love.
 
 ### Further Reading
 
