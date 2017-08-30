@@ -70,11 +70,9 @@ Pure, unadulterated submissiveness isn’t the only “secret” of a flower lik
 
 Rhyner notes that the language of flowers gained popularity in the Western world only after its introduction by German Orientalist Josepher Hammer-Purcell. During a stay in Turkey, Hammer-Purcell had studied a precursor to the language, which had intimate ties to sélams, “a form of covert communication in which the exchange of symbolic objects, including but not limited to flowers, allowed cloistered harem girls to communicate with love interests outside of their walls.”
 
-These coded messages weren’t, as Hammer-Purcell might have first assumed, a form of communication between a man and a woman, however — women used them as a friendly game amongst other women, to entertain themselves, and as a way to communicate queer desire. 
+Women used them as a friendly game amongst other women, to entertain themselves, and as a way to communicate queer desire. 
 
-I think that connotation is more fascinating than any other bullshit meaning. It isn’t even the first time flowers have communicated love: in Greek times, the violet was reportedly the flower chiefly associated with the homoerotic overtures of the lyrist Sappho. 
-
-Whether or not, as some scholars now question, Sappho was really the beacon of queer power in her personal life that some believe, this all amounts to a mountain of love for a seemingly simple weed.  
+I think that connotation is more fascinating than any other bullshit meaning: of flowers — and violet in particular – as a diminuitive yet powerful symbol of (non-heteronormative) love.
 
 ### Further Reading
 
