@@ -28,3 +28,6 @@ _—Dakota Sexton_
 
 ### Special Thanks
 To Linda Sparrowe, Spencer McGrew, Sue Wika and Tom Prieve of Paradox Farm, Gordon A. Hydukovich, Michele Anderson, Emily McCune, Naomi Schliesmann, Nancy Valentine, Dominic Facio, Molly Johnston, Erin Irby, Amanda Cross, the Kaddatz Galleries, Springboard for the Arts (who sponsored my residency at the Kirkbride, and introduced me to so many of the people who contributed) and so many other members of the Fergus Falls community — who opened their hearts to me and enthusiastically encouraged this project.
+
+### Contact 
+If you have any questions or are interested in contributing to this project, please <a href="mailto:dakota@tinykitelab.com">email Dakota.</a>
