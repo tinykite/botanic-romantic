@@ -223,32 +223,36 @@ img{
   }
 }
 
-.site-nav {
-    text-align: right;
+.main-navigation {
     float: right;
     text-transform: uppercase;
     letter-spacing: 1px;
-    padding-top: .5rem;
+    ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    list-style: none;
+    margin: 0;
+    padding: 0;
     }
-.site-nav ul {
-    width: 100%;
-     font-size: 18px;
-  line-height: 2.5;
-  color: #494746;
+    li {
+    font-size: 18px;
+    line-height: 2.5;
+    padding-right: 0.5rem;
+    display: flex;
+    align-items: flex-start;
     }
-.site-nav ul li {
-    display: inline-block;
-    margin-right: 1em;
-    }
-.site-nav ul li:last-child {
-    margin-right: 0;
-}
-.site-nav a {
+    a {
     color: #344567;
-}
-.site-nav a:hover {
+    &:hover {
     color: #999;
     text-decoration: underline 1em solid #999;
+    }
+    }
+}
+
+.main-navigation li:last-of-type {
+  padding-right: 0;
 }
 
 
