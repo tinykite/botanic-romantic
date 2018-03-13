@@ -1,7 +1,9 @@
-<div class="container">
+<div class="wrapper">
 <header class="masthead">
 <a href="/"><img class="logo" src="/assets/icons/botaniclogo.svg"> </a>
-<nav class="site-nav">
+		<div class="menu-icon button"><a href="#"><img src="/assets/icons/menu.png"></a></div>
+		<nav class="menu">
+		<div class="button"><a href="#"><img src="/assets/icons/close.png"></a></div>
 <ul>
   {% for item in site.data.navigation.header %}
     <li>
@@ -12,4 +14,5 @@
 </nav>
 </header>
 </div>
+
 
