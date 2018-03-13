@@ -2,18 +2,13 @@
 layout: default
 title: Recipes
 ---
-
-<div class="wrapper-alt">
-<div class="plant-index-header">
-<h1 class="text-shadow underline">{{ page.title }}</h1></div>
-
-<div class="recipe-listing">
+<div class="main">
+<h1 class="alt-headline">{{ page.title }}</h1>
 {% assign sorted_recipes = site.recipes | sort: "category" %}
     {% for item in sorted_recipes %}
-    <article class="recipe-index">
-      <a href="{{ item.url }}"> <h3>{{ item.title }}</h3></a>
-     <p class="recipe-description"> {{ item.description }}</p>
+    <article>
+     	<a href="{{ item.url }}"> <h3 class="recipe-title">{{ item.title }}</h3></a>
+    	<p class="recipe-description">{{ item.description }}</p>
+     </article>
     {% endfor %}
-</article>
-</div>
 </div>
