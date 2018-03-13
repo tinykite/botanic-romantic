@@ -2,26 +2,30 @@
 layout: about
 title:  "About"
 permalink: /about/
-description: "Botanic Romantic is a foraging guide and interdisciplinary art project which celebrates the wonder of seemingly mundane or weedy yet edible plants."
 ---
-Started during an interdisciplinary art residency on the grounds of the former Kirkbride State Hospital in Fergus Falls, Minnesota in spring 2017, it aims to be experimental yet educational, both sassy and non-apologetically personal. 
+# About
+{: .alt-headline}
 
-The five plants presently featured were discovered while exploring city parks, bike trails, and public and/or tax-forfeit wilderness areas within the city limits of Fergus Falls – as well as state, county, and/or DNR-maintained lands throughout Otter Tail county.
+Botanic Romantic is an online foraging guide and misfit art beast that exists somewhere in the borderlands between horticultural education, food/humor writing, and health advocacy.
 
-I had no idea what plants I'd be able to find before moving to Fergus Falls, but I was eager to get outside and discover. And I want to encourage others to do the same: take your bike out to unfamiliar parks. Or go camping and rent a canoe for the day. 
+I started working on the project in early 2017, during a two-month arts residency at Hinge Arts at the Kirkbride, in Fergus Falls, Minnesota. I wanted to make horticultural education just a little funnier and weirder — and to explore how minimalist illustration might promote the beauty of odd plants. 
 
-Then look for something unfamiliar and try to pick out visual clues to what it is. The more time you spend looking for telling details, the easier it gets.
+My residency began in April, before the ground had even thawed. I had no idea what kind of plants were most prolific (and most edible) in the area. I wasn't even a good cook. 
 
-Plant identification certainly isn't _easy_ – some plants have inedible or poisonous lookalikes, and correct indentification is often much simpler during the brief window of time a plant flowers, sprouts seeds, or produces fruit. 
+But I was eager to get outside and explore. 
 
-But it's my hope that this project inspires others to get outside and wander about with a similiar sense of curiosity about the value and relevance of unfamiliar plants growing in seemingly ordinary areas. 
+So I spent much of my residency exploring city parks, bike trails, and public and/or tax-forfeit wilderness areas in Fergus Falls, plus huge swaths of DNR-maintained land throughout greater Otter Tail county. I talked to anyone, and everyone I could. I awkwardly read maps. I made a lot of terrible sketches.
 
-_—Dakota Sexton_
+Since those early days, the project has spawned a website, a pop-up cocktail bar, a print run of 500 handmade letterpress coasters, and a family-oriented "art of weeds" class that combined herbal education with storytelling and design thinking.
+
+In the future, I want to do more: more recipes, more illustrations, more experimental interactive design work. I want to keep exploring, and keep finding ways to reimagine the value of seemingly mundane plants. 
+
+_Xoxo, Dakota Sexton_
 
 <hr>
 
 ### Contributors
-- Dakota Sexton – Writer, Creative Director, Web Developer
+- Dakota Sexton – Head Misfit and Weirdo Explorer
 - Siloh Radovsky – Writer, Herbal Researcher
 - S.F. Keough – Writer
 - Tom Sexton – Printer
