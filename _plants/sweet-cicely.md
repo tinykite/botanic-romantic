@@ -3,7 +3,6 @@ layout: plants
 title:  "Sweet Cicely"
 icon: /assets/icons/sweet-cicely.svg
 icon_small: /assets/icons/sweet-cicely-box.svg
-color: beige
 position: 4
 ---
 This isn't the showiest pony on any ranch. But humble doesn’t mean homely. 
