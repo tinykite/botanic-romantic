@@ -3,7 +3,6 @@ layout: plants
 title:  "Elder"
 icon: /assets/icons/elder.svg
 icon_small: /assets/icons/elder-box.svg
-color: beige
 position: 2
 ---
 Don't be fooled by the name. The magic this plant spins is an all-ages affair. 
