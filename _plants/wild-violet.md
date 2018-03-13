@@ -3,33 +3,31 @@ layout: plants
 title:  "Wild Violet"
 icon: /assets/icons/wild-violet.svg
 icon_small: /assets/icons/wild-violet-box.svg
-color: beige
 position: 1
 ---
 Some say it’s a perennial pain in the ass. Attack it early and often to protect the sanctity of your yard. 
 
-I grew up in a suburb just south of Saint Paul, Minnesota, where I recently returned to stay, despite many misgivings about the blandness of a suburb known primarily for its proximity to no less than three major highways; and the convenience that provides to nearly a dozen large employers, including Thomson Reuters, which hosts an estimated 6,700 employees in its mammoth Pilot Knob compound alone.
+I wouldn't exactly call where I grew up in the twin cities charming. With the exception of a few nice parks and bike paths, it is your standard carbon copy of a copy of some generic dream of suburbia. 
 
-But that said, it’s not all bland. You can also amble down a paved bike/pedestrian path to Lebanon Hills Regional Park, a place which boasts nearly 2,600 acres of canoeing, hiking, horseback riding, mountain biking, and even cross-country skiing. If you’re any kind of sports-obsessed human, you might also feel enticed by the news that the Vikings are moving to a new, elaborately landscape training here in just a couple of years —
+There is, however, something strangely comforting about hanging out at my parent's house and watching other people potter about their lawns. They always move slowly — almost ritually, as if all the weed whackers and XXL pitchforks and miniature tools in the world are holy relics in an ageless war against opportunistic plants.  
 
-And while I wouldn’t exactly call the development I grew up in charming, there is something strangely routine and almost even comforting about watching the mostly retired residents of it putter around their yards. They move slowly, methodically, as they wield a changing array of serious-looking tools, from weed whackers to strange XXL pitchforks, that I assume are all used in some service to continue an ageless campaign against untidy growth or uninvited botanical guests to the yard. 
+Our own front flower beds are pretty much 100% fern. And our yard is an enclave for every rogue plant imaginable: plaintain, violets, weird types of grass. I'm not sure my parents mind. 
 
-My parents don’t really have much in the way of gardening goals. Ferns have — rather happily — almost completely taken over what remains of our front yard flower beds. A variety of opportunistic plants, including wild violet, have also taken up residence all over our lawn. 
-
-My parents don’t mind. Which is perhaps for the best. 
+Which is perhaps for the best. Because violets don't care about your hopes or dreams for pure, unadulterated bluegrass. 
+They have zero shits to give. And large colonies will absolutely spread like small-town gossip throughout your yard. 
 
 ![Photo of violets with bokeh](http://d19obp3htqd30.cloudfront.net/3452728612_d583aaaf5e_o.jpg)
 {: .full-width}
 #### [Photo](https://flic.kr/p/6g78VE): Liz West / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 {: .credit}
 
-Because wild violet doesn’t care about any of your hopes or dreams. They have zero shits to give. Large colonies of it can — and will — spread like small-town gossip throughout your yard. 
+But the curious thing about violets isn't the rate at which they spread. 
 
-The curious thing about violets isn’t how fast they spread, however. Instead, it’s how they do it: not only with seeds and underground networks of spindly rhizomes, but even super-secret, pale-white buds. Known as _cleistogamous flowers_, these secret beauties (named after the latin term for a closed or “self” marriage) can hide underground because they don’t need pollinators or even the sun to produce viable seeds. 
+Instead, it’s how they do it: with seeds, underground networks of spindly rhizomes, and even super-secret, pale-white buds. Known as _cleistogamous flowers_, these secret beauties (named after the latin term for a closed or “self” marriage) can hide underground because they don’t need pollinators or even the sun to produce viable seeds. 
 
-They can pollinate themselves just fine thanks, even in the dark. 
+They can pollinate themselves alone, even in the dark. 
 
-If you follow the advice of many gardening websites, a campaign of pesticide-fueled annihilation is your only hope of reducing a scourge such as this. But the leaves and flowers of violets are surprisingly edible; and not everyone views the appearance of a cluster of these tiny, purple beauties as an assault on common decency. 
+According to many gardening websites, a campaign of pesticide-fueled annihilation is your only hope of reducing a scourge such as this. Yet the leaves and flowers of violets are surprisingly edible; and not everyone views the appearance of a cluster of these tiny, purple beauties as an assault on common decency. 
 
 ![Photo of violets in lawn](http://d19obp3htqd30.cloudfront.net/14157317963_1d2e851d11_o.jpg)
 {: .full-width}
