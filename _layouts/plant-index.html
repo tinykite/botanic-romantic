@@ -2,16 +2,21 @@
 layout: default
 title: Plant Guides
 ---
-<div class="wrapper">
-<div class="plant-index-header">
-<h1 class="text-shadow underline">Eat the Weeds</h1></div>
-<div class="plant-index-grid">
+<div class="listing-wrapper">
+<aside>
+<h1 class="tagline">I love you, weird plant</h1>
+<p>Botanic Romantic is an ongoing and hyper-personal attempt to document the wonder of invasive, ordinary, or even "ugly" plants.</p>
 
+<p>Call it a mash note to forgotten flavors, to foraging, and to the cosmic weirdness of how nettles sting — or even how many superstitions have been spun about the elder tree.</p>
+</aside>
+
+<div class="plant-index-grid">
  {% assign sorted_index = site.plants | sort: 'position' %}
   {% for item in sorted_index %}
-    <article class="panel">
+    <article>
      <a href="{{ item.url }}"><img src="{{ item.icon_small }}"></a>
     </article>
     {% endfor %}
 </div>
+
 </div>
