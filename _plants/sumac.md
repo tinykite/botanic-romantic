@@ -3,7 +3,6 @@ layout: plants
 title:  "Staghorn Sumac"
 icon: /assets/icons/staghorn-sumac.svg
 icon_small: /assets/icons/staghorn-sumac-box.svg
-color: beige
 position: 5
 ---
 Let’s not beat around the bush. This sassy pal is a little sour. Some even call it tart. But we all know that’s just another way of saying that its flavor is opinionated, right? 
