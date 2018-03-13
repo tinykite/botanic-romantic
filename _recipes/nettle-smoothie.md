@@ -5,7 +5,6 @@ author: "Siloh Radovsky"
 description: When you're bored of other "green" smoothies. 
 category: "nettle"
 ---
-### Yield 
 Serves 2
 
 ### Ingredients 

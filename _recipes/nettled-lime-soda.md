@@ -5,7 +5,6 @@ author: "Siloh Radovsky"
 description: Some say one novel beverage a day keeps the boredom away. 
 category: "nettle"
 ---
-### Yield
 Serves 2
 
 ### Ingredients

@@ -5,7 +5,6 @@ author: "Siloh Radovsky"
 description: Because ice cream that's green is just a lot more fun. 
 category: "sweet-cicely"
 ---
-### Yield 
 Makes one pint of ice cream.
 
 ### Ingredients

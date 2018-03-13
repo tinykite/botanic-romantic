@@ -5,7 +5,6 @@ author: "Siloh Radovsky"
 description: A seasonal take on a versatile sauce. 
 category: "nettle"
 ---
-### Yield
 Makes approximately one cup. 
 
 ### Ingredients

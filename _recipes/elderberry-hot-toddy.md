@@ -5,7 +5,6 @@ author: "Siloh Radovsky"
 description: Melts away the chill of winter.
 category: "elder"
 ---
-### Yield
 Makes approximately 4 cups of syrup. Can be easily doubled. 
 
 ### Ingredients

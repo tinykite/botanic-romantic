@@ -6,10 +6,7 @@ description: An easy salad that can be enjoyed warm or cool, with cultivated gre
 category: "sumac"
 
 ---
-### Yield
-Serves 4 as a side dish
-
-This salad is inspired by the flavors of za’atar, a spice blend popular in Israel and Palestine. Sumac is a key ingredient, lending a rich, tangy flavor that melds with the more familiar thyme. You can increase the amount of sumac to your liking! 
+This salad is inspired by the flavors of za’atar, a spice blend popular in Israel and Palestine. Sumac is a key ingredient, lending a rich, tangy flavor that melds with the more familiar thyme. You can increase the amount of sumac to your liking! _Serves 4 as a side dish_
 
 ### Dressing Ingredients
 - 1/2 cup olive oil
