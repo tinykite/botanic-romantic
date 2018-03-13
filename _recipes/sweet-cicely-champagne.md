@@ -5,6 +5,8 @@ author: "S.F Keough"
 description: For the next time you want to celebrate or just relax. 
 category: "sweet-cicely"
 ---
+Quick note: this soda is fermented. And fermented drinks do contain a small percentage of alcohol and the longer you let them ferment, the higher the percentage.
+
 ### Ingredients
 - Gather a bunch of Sweet Cicely flowers (8-10 heads should do)
 - 1.5 lbs of sugar
@@ -18,5 +20,3 @@ category: "sweet-cicely"
 3. Keep them at room temperature for 4-10 days, checking their taste along the way. 
 4. Once it’s to your liking, you can pop it in the fridge to slow down the fermentation process. This refreshing beverage is a delight on its own and has an anise-y flavor with a little extra sweetness.
 5. Add a lemon slice and some ice, or why not some gin too? 
-
-Note: Fermented drinks do contain a small percentage of alcohol and the longer you let them ferment, the higher the percentage.
