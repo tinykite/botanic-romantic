@@ -1,4 +1,5 @@
 /* Reset */
+
 html, body, div, object, h1, h2, h3, h4, h5, h6, p, blockquote, object, iframe, ol, ul, li, form, legend, label, table, header, footer, nav, section, figure, hgroup, span, aside, pre, a, img, tr, th, td, tbody, tfoot, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
@@ -19,4 +20,10 @@ ol, ul {
 
 blockquote, q {
   quotes: none;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
 }
