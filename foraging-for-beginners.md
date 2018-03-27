@@ -7,7 +7,7 @@ image: http://d19obp3htqd30.cloudfront.net/jan-phoenix-269396.jpg
 permalink: /foraging-for-beginners/
 
 ---
-_Never harvested a weed before? No problem. Awesome human and trained herbalist Siloh Radovsky will help you find your first bounty._
+Never harvested a weed before? No problem. Awesome human and trained herbalist Siloh Radovsky will help you find your first bounty.
 
 Chances are high your town or local neighborhood haunts are home to edible and medicinal plants. You might think of some of them, such as dandelions or garlic mustard, as unsightly weeds or even invasive species. But many have a long history of culinary and medicinal use — and by getting better acquainted with them, you’ll discover opportunities for culinary experimentation that no grocery store can match.
 
