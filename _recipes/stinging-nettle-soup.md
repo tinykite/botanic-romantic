@@ -15,7 +15,7 @@ People in Sweden eat this in the spring with a hard-boiled egg and some nice bre
 - Chopped chives
 - Salt and Pepper to taste
 
-_Optional garnishes_: Hard-boiled egg & crushed-up potato chips
+_Optional_: Hard-boiled egg
 
 ### Directions
 1. If you’re foraging, fill a grocery bag full of nettles. If not, I’d say 6-8 cups will do. Handle these with care as they do sting. Put some gloves on and get your nettles into the sink and let them soak in water for a few minutes. Shake them around and get as much of the dirt and rocks out of them as you can. 
