@@ -11,8 +11,8 @@
 
 /* Base */
 body {
-color: #443235;
-background-color: lighten(#D8EDEA, 10%);
+  color: #4a4a4a;
+  background-color: lighten(#D8EDEA, 10%);
 }
 
 p {
@@ -199,12 +199,11 @@ img{
   }
   margin: 1rem auto;
   p:first-child {
-  font-size: ms(1);
-  text-align: center;
   margin-top: .75rem;
   color: #8C91A5;
-  font-style: italic;
   line-height: 1.5;
+  text-align: center;
+  font-style: italic;
   }
   h2 {
   text-align: center;
@@ -218,6 +217,7 @@ img{
 
 .recipe-title {
   font-weight: 300;
+  font-size: 1.5rem;
 }
 
 .alt-headline {
@@ -325,7 +325,7 @@ img{
   margin-top: 1rem;
 }
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   align-content: start;
 }
 
