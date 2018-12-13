@@ -1,10 +1,12 @@
 ---
+title: Sweet Cicely Champagne Soda
+categories:
+- sweet-cicely
 layout: recipes
-title:  "Sweet Cicely Champagne Soda"
-author: "S.F Keough"
-description: For the next time you want to celebrate or just relax. 
-category: "sweet-cicely"
+author: S.F Keough
+description: For the next time you want to celebrate or just relax.
 ---
+
 Quick note: this soda is fermented. And fermented drinks do contain a small percentage of alcohol and the longer you let them ferment, the higher the percentage.
 
 ### Ingredients

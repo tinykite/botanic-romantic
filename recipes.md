@@ -1,5 +1,6 @@
 ---
+title: Recipes
+permalink: "/recipes/"
 layout: recipe-index
-permalink: /recipes/
-title:  "Recipes"
 ---
+

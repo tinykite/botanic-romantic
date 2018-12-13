@@ -1,10 +1,10 @@
 ---
-layout: plants
-title:  "Stinging Nettle"
-description: TK
-icon: /assets/icons/stinging-nettle.svg
-icon_small: /assets/icons/stinging-nettle-box.svg
+title: Stinging Nettle
 position: 3
+layout: plants
+description: TK
+icon: "/assets/icons/stinging-nettle.svg"
+icon_small: "/assets/icons/stinging-nettle-box.svg"
 ---
 
 Not everything has a pretty name. This one doesn't. But there's poetry in the thorny nature of this plant, I promise. 

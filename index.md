@@ -1,8 +1,9 @@
 ---
+title: Plant Guides
+permalink: "/"
 layout: plant-index
-permalink: /
-title:  "Plant Guides"
 ---
+
 # I love you, weird plant
 {: .tagline}
 Botanic Romantic is an ongoing attempt to document the wonder of invasive or otherwise "ordinary" plants.

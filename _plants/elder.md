@@ -1,10 +1,11 @@
 ---
-layout: plants
-title:  "Elder"
-icon: /assets/icons/elder.svg
-icon_small: /assets/icons/elder-box.svg
+title: Elder
 position: 2
+layout: plants
+icon: "/assets/icons/elder.svg"
+icon_small: "/assets/icons/elder-box.svg"
 ---
+
 Don't be fooled by the name. The magic this plant spins is an all-ages affair. 
 
 I remember when I first discovered the subtle, delicate flavor of elderflower. My friend Lizzy had invited me over under the premise that we’d do nothing but hang out on her front porch and get drunk on wine. 

@@ -1,10 +1,12 @@
 ---
+title: Elderberry Hot Toddy
+categories:
+- elder
 layout: recipes
-title:  "Elderberry Hot Toddy"
-author: "Siloh Radovsky"
+author: Siloh Radovsky
 description: Melts away the chill of winter.
-category: "elder"
 ---
+
 Makes approximately 4 cups of syrup. Can be easily doubled. 
 
 ### Ingredients

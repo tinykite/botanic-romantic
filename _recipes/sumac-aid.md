@@ -1,10 +1,12 @@
 ---
+title: Sumac-Aid
+categories:
+- sumac
 layout: recipes
-title:  "Sumac-Aid"
-author: "Siloh Radovsky"
+author: Siloh Radovsky
 description: It's like lemonade, but better.
-category: "sumac"
 ---
+
 Refreshing in summertime. Add vodka for a lemonade-like cocktail! _Serves 4_
 
 ### Ingredients

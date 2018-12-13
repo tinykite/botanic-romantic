@@ -1,10 +1,12 @@
 ---
+title: Stinging Nettle Soup
+categories:
+- nettle
 layout: recipes
-title:  "Stinging Nettle Soup"
-author: "S.F. Keough"
-description: In Sweden, this is a classic staple around springtime.  
-category: "nettle"
+author: S.F. Keough
+description: In Sweden, this is a classic staple around springtime.
 ---
+
 People in Sweden eat this in the spring with a hard-boiled egg and some nice bread. I also enjoy this soup with crushed up potato chips on top.
 
 ### Ingredients

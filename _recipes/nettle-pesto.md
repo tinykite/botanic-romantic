@@ -1,10 +1,12 @@
 ---
+title: Nettle Pesto
+categories:
+- nettle
 layout: recipes
-title:  "Nettle Pesto"
-author: "Siloh Radovsky"
-description: A seasonal take on a versatile sauce. 
-category: "nettle"
+author: Siloh Radovsky
+description: A seasonal take on a versatile sauce.
 ---
+
 Makes approximately one cup. 
 
 ### Ingredients

@@ -1,8 +1,9 @@
 ---
+title: About
+permalink: "/about/"
 layout: about
-title:  "About"
-permalink: /about/
 ---
+
 # About
 {: .alt-headline}
 

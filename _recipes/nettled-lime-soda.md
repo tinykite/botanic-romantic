@@ -1,10 +1,12 @@
 ---
+title: Nettled Lime Soda
+categories:
+- nettle
 layout: recipes
-title:  "Nettled Lime Soda"
-author: "Siloh Radovsky"
-description: Some say one novel beverage a day keeps the boredom away. 
-category: "nettle"
+author: Siloh Radovsky
+description: Some say one novel beverage a day keeps the boredom away.
 ---
+
 Serves 2
 
 ### Ingredients

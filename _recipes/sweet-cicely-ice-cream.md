@@ -1,10 +1,12 @@
 ---
+title: Sweet Cicely Ice Cream
+categories:
+- sweet-cicely
 layout: recipes
-title:  "Sweet Cicely Ice Cream"
-author: "Siloh Radovsky"
-description: Because ice cream that's green is just a lot more fun. 
-category: "sweet-cicely"
+author: Siloh Radovsky
+description: Because ice cream that's green is just a lot more fun.
 ---
+
 Makes one pint of ice cream.
 
 ### Ingredients

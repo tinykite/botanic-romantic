@@ -1,10 +1,11 @@
 ---
-layout: plants
-title:  "Staghorn Sumac"
-icon: /assets/icons/staghorn-sumac.svg
-icon_small: /assets/icons/staghorn-sumac-box.svg
+title: Staghorn Sumac
 position: 5
+layout: plants
+icon: "/assets/icons/staghorn-sumac.svg"
+icon_small: "/assets/icons/staghorn-sumac-box.svg"
 ---
+
 Let’s not beat around the bush. This sassy pal is a little sour. Some even call it tart. But we all know that’s just another way of saying that its flavor is opinionated, right? 
 
 I grew up spotting Sumac berries on long bike rides around the twin cities and at state parks throughout Minnesota. I never thought there was anything particularly special about them. They just sort of seemed to hang out along every trail or park my dad took me. And I was never taught to recognize the difference between wild (yet edible) and poisonous berries.  

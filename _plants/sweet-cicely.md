@@ -1,10 +1,11 @@
 ---
-layout: plants
-title:  "Sweet Cicely"
-icon: /assets/icons/sweet-cicely.svg
-icon_small: /assets/icons/sweet-cicely-box.svg
+title: Sweet Cicely
 position: 4
+layout: plants
+icon: "/assets/icons/sweet-cicely.svg"
+icon_small: "/assets/icons/sweet-cicely-box.svg"
 ---
+
 This isn't the showiest pony on any ranch. But humble doesn’t mean homely. 
 
 I hadn’t heard of sweet cicely until visiting Paradox Farm, in nearby Ashby, Minnesota. A friend, who had studied sustainable agriculture with one of the owners, Sue Witka, invited me to drive over and see firsthand the many amazing, edible and wild plants that animals eat while grazing at the farm. 

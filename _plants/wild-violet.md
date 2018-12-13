@@ -1,10 +1,11 @@
 ---
-layout: plants
-title:  "Wild Violet"
-icon: /assets/icons/wild-violet.svg
-icon_small: /assets/icons/wild-violet-box.svg
+title: Wild Violet
 position: 1
+layout: plants
+icon: "/assets/icons/wild-violet.svg"
+icon_small: "/assets/icons/wild-violet-box.svg"
 ---
+
 Some say it’s a perennial pain in the ass. Attack it early and often to protect the sanctity of your yard. 
 
 I wouldn't exactly call where I grew up in the twin cities charming. With the exception of a few nice parks and bike paths, it is your standard carbon copy of a copy of some generic dream of suburbia. 

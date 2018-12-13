@@ -1,10 +1,12 @@
 ---
+title: Nettle Smoothie
+categories:
+- nettle
 layout: recipes
-title:  "Nettle Smoothie"
-author: "Siloh Radovsky"
-description: When you're bored of other "green" smoothies. 
-category: "nettle"
+author: Siloh Radovsky
+description: When you're bored of other "green" smoothies.
 ---
+
 Serves 2
 
 ### Ingredients 
